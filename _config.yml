@@ -1,0 +1,28 @@
+title: Random Test Notes
+description: Just Checking If This works or not II
+baseurl: /SunilNotes2
+url: https://Vooradi-Harshith.github.io/SunilNotes2
+
+# Use remote_theme for GitHub Pages (theme: won't work)
+remote_theme: just-the-docs/just-the-docs
+
+# Required plugins for GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+# Theme settings
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: >-
+  Made with ❤️ and sweaty fingers by <a href="https://github.com/SunilKumarPradhan">Sunil Kumar Pradhan</a> • Powered by <a href="https://github.com/SunilKumarPradhan/NoteSmith">NoteSmith</a>
+
+aux_links:
+  "View on GitHub": "https://github.com/Vooradi-Harshith/SunilNotes2"
+  "Meet the Creator": "https://github.com/SunilKumarPradhan"
